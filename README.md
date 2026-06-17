@@ -74,7 +74,7 @@ Face_Unlock_System/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Face_Unlock_System.git
+git clone https:https://github.com/vijaydevverse/Face_Unlock_System
 cd Face_Unlock_System
 ```
 
